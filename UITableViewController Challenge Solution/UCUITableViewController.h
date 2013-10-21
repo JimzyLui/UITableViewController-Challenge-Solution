@@ -1,5 +1,5 @@
 //
-//  UCViewController.h
+//  UCUITableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Jimzy Lui on 10/21/2013.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UCViewController : UIViewController
+@interface UCUITableViewController : UITableViewController
 
 @end
